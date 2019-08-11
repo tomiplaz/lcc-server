@@ -1,0 +1,9 @@
+{
+  "name": "lcc-server",
+  "version": "1.0.0",
+  "description": "LCC web shop in a form of an Express app",
+  "main": "index.js",
+  "repository": "https://github.com/tomiplaz/lcc-server",
+  "author": "Tomislav Plazonic",
+  "license": "MIT"
+}
